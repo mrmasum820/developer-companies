@@ -1,10 +1,6 @@
-# Real Estate Companies
+# Top Developer Companies
 
-This full project code is [Create React App](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mrmasum820).
-
-## Live site link
-
-- site url(https://real-estate-companies.netlify.app/)
+This full project code is [Create React App](https://github.com/mrmasum820/react-developer-companies).
 
 
 ## details in this project
